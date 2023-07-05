@@ -12,4 +12,6 @@ public class Pessoa {
 
     private String nome;
     private String departamento;
+    private int id_tarefa;
+
 }
